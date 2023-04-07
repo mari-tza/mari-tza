@@ -2,11 +2,6 @@
 
 **Front-end developer**
 
-In the beggining of my journey as a programmer; 
-
-Idrk what i'm doing 
-
-<img src="https://media.tenor.com/2qOpi7ephVsAAAAS/pigeon-sad.gif" width="200" height="200" />
 
 ### Languages and tools
 
